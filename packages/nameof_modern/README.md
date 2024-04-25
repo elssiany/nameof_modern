@@ -18,10 +18,6 @@ property names of a class, method, etc. This package is an update of the origina
 #### This guide is based on the official [nameof](https://pub.dev/packages/nameof) documentation and has been updated for the modern version of `nameof_modern`.
 
 
-# Motivation
-
-Sometimes there is a need to access the names of programming language entities, such as methods, properties, constructors, etc. Unfortunately, Flutter does not have a reflection mechanism designed for this purpose. But there is code generation! It is all you need for access to names of code entities with this package.
-
 # Menu
 
 - [Menu](#menu)
