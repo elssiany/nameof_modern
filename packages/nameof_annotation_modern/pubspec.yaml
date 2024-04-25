@@ -1,0 +1,11 @@
+name: nameof_annotation_modern
+description: An upgrade modern code of the official and original nameof_annotation. Annotations for nameof package, that is Generator for  Dart class member's names, such as fields etc...
+version: 0.0.3
+homepage: https://github.com/elssiany/nameof_modern
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.4

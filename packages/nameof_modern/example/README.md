@@ -1,0 +1,1 @@
+Example for [Nameof Modern](https://pub.dev/packages/nameof_modern) package.
